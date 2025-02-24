@@ -24,8 +24,8 @@ Stylerr is a mobile application built with React Native (Expo) that allows users
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/wardrobe-app.git
-   cd wardrobe-app
+   git clone https://github.com/lem-gem/Stylerr-WardrobeApp
+   cd Stylerr
 
 2. **Install Dependencies:**
 
